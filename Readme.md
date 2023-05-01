@@ -1,7 +1,7 @@
 # PatchCoreとFastFlowを使った外観検査AIモデル開発のサンプル
 
 ## About this sample
-このサンプルは2023年3月30日に実施したWebinar「いまからでも遅くない外観検査〜ワークフロー概説と最新アルゴリズム適用例」の後半のセッション「外観検査を効率化する最新アルゴリズム “PatchCore”の原理と適用例」
+このサンプルは2023年3月30日に実施したWebinar[「いまからでも遅くない外観検査〜ワークフロー概説と最新アルゴリズム適用例」](https://jp.mathworks.com/videos/visual-inspection-workflow-overview-and-the-case-study-of-patchcore-1680631379552.html)の後半のセッション「外観検査を効率化する最新アルゴリズム “PatchCore”の原理と適用例」
 で紹介したPatchCoreのサンプル、そしてFastFlowのサンプルです。
 元のサンプルである「[Detect Image Anomalies Using Explainable FCDD Network](https://www.mathworks.com/help/deeplearning/ug/detect-anomalies-using-single-class-classification.html)
 」から最低限の変更に留めて作成していますので、解説のテキストとコードが一致していない箇所がある点ご留意ください。
@@ -18,7 +18,7 @@ Demosフォルダにある"[FastFlow_using_mydata_Example.mlx](Demos/FastFlow_us
 変更箇所はWebinarを参考にしてください。  
   
 ## Recording
-[MathWorks&reg; Webinarアーカイブページ](https://jp.mathworks.com/videos/visual-inspection-workflow-overview-and-the-case-study-of-patchcore-1680631379552.html)  
+[MathWorks&reg; Webinar いまからでも遅くない外観検査〜ワークフロー概説と最新アルゴリズム適用例アーカイブページ](https://jp.mathworks.com/videos/visual-inspection-workflow-overview-and-the-case-study-of-patchcore-1680631379552.html)  
 
 ## Required Products
 
@@ -27,11 +27,11 @@ Products:
 - Image Processing Toolbox&trade;  
 - Computer Vision Toolbox&trade;  
 - Deep Learning Toolbox&trade;  
+（※いずれもR2023a以降）  
   
 Add-on:  
 - Computer Vision Toolbox Automated Visual Inspection Library（Computer Vision Toolboxのライセンスがあれば無償ダウンロード可能です）  
 - Deep Learning Toolbox Model for ResNet-18 Network  
-（※いずれもR2023a以降）
 
 ## References
 PatchCore: proposed in Roth et al. (2021), [Towards Total Recall in Industrial Anomaly Detection](https://arxiv.org/abs/2106.08265.)  
