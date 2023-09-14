@@ -34,5 +34,5 @@ Add-on:
 - Deep Learning Toolbox Model for ResNet-18 Network  
 
 ## References
-PatchCore: proposed in Roth et al. (2021), [Towards Total Recall in Industrial Anomaly Detection](https://arxiv.org/abs/2106.08265.)  
+PatchCore: proposed in Roth et al. (2021), [Towards Total Recall in Industrial Anomaly Detection](https://arxiv.org/abs/2106.08265)  
 FastFlow: proposed in Yu et al. (2021), [FastFlow: Unsupervised Anomaly Detection and Localization via 2D Normalizing Flows](https://arxiv.org/abs/2111.07677)  
